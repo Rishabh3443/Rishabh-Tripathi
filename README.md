@@ -1,4 +1,4 @@
-# Rishabh-Tripathi
+# Readme.md
 # 💫 About Me:
 🚀 I build, I break, and I learn.<br><br>🎓 BCA student focused on mastering programming fundamentals, data structures, and real-world software development. Currently investing heavily in problem-solving and hands-on projects to develop strong engineering skills.<br><br>🎯 My goal is simple: solve hard problems and build software that matters.<br><br>⚡ Always learning. Always shipping.<br>
 
